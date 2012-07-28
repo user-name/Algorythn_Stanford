@@ -1,5 +1,5 @@
 __author__ = 'Z'
-f = open('HashInt.txt')  #otvet: 1477
+f = open('HashInt.txt')  #otvet: 
 #f = open('2sum.txt') #otvet: 1453
 array_of_integer=[]
 
