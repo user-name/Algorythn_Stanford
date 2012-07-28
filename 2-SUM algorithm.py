@@ -21,3 +21,15 @@ for t in range(2500,4001):
 
 print len(result)
 
+"""
+
+The goal of this problem is to implement a variant of the 2-SUM algorithm (covered in the Week 5 lecture on hash table applications)
+The file contains 500,000 positive integers (there might be some repetitions!).This is your array of integers, with the ith row of the file specifying the ith entry of the array.
+
+Your task is to compute the number of target values t in the interval [2500,4000] (inclusive) such that there are distinct numbers x,y in the input file that satisfy x+y=t. (NOTE: ensuring distinctness requires a one-line addition to the algorithm from lecture.)
+
+Write your numeric answer (an integer between 0 and 1501) in the space provided.
+
+As an optional exercise, you might try implementing your own hash table for this question.
+
+"""
